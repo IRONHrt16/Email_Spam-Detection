@@ -1,2 +1,2 @@
-# Email_Spam-Detection
+# Email Spam-Detection
 Python-ML Project
